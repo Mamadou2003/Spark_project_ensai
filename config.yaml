@@ -1,0 +1,4 @@
+data_directory: 'Data/1-raw'
+start_year: 2022
+end_year: 2024
+github_repo: 'https://raw.githubusercontent.com/rvm-courses/GasPrices/master'
